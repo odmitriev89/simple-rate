@@ -23,9 +23,9 @@ Rules
 
 ------
 
-how to do
+**How to do**
 
-Fork repository
-In folder **fork** add you solution
-Do it on any language
-Pull request to main repository
+1. Fork repository
+2. In folder **fork** add you solution
+3. Do it on any language
+4. Pull request to main repository
