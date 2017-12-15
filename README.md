@@ -4,13 +4,13 @@
 
 Please create simple function with 4 parameters which should return object with 3 digits with next rules
 
-**function(A, B, C, X) {}**
+**function(A, B, C, X) {
 
-**return object 
-{
+return {
 	Y,
 	V,
 	Z
+};
 }**
 
 Rules
